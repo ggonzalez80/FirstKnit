@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Gael Gonzalez"
 output: 
   html_document:
     number_sections: true
@@ -18,7 +18,7 @@ Where did you attend High School, and did you graduate? Compare english class to
   
 ### my answer     
   
-
+I attended at William J. Pete Knight High School. English talks about literature and math is solving problems. I am best in math and hope I do good in this class.
      
 
 
